@@ -17,19 +17,19 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone this repository:
 
-`bash git clone https://github.com/aliosmanekmekci/notes-app.git`
+`git clone https://github.com/aliosmanekmekci/notes-app.git`
 
 2. Navigate to the project directory:
 
-`bash cd notes-app`
+`cd notes-app`
 
 3. Install the dependencies:
 
-`bash npm install`
+`npm install`
 
 4. Start the server:
 
-`bash npm start`
+`npm start`
 
 Your app should now be running on http://localhost:3000.
 
@@ -48,7 +48,7 @@ This app allows you to:
 
 ## Contact
 
-If you want to contact me, you can reach me at your-email@example.com.
+If you want to contact me, you can reach me at aliosmanekmekci@gmail.com.
 
 ## License
 
